@@ -11,6 +11,7 @@ use pocketmine\utils\Config;
 use pocketmine\event\Listener;
 use pocketmine\math\Vector3;
 use pocketmine\level\Position;
+use pocketmine\block\Block;
 
 class Main extends PluginBase implements Listener {
 	
