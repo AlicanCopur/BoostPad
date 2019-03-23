@@ -12,7 +12,7 @@
 *
 * @version 1.0
 * @author AlicanCopur
-* @copyright HashCube Network © | 2015 - 2018 
+* @copyright HashCube Network © | 2015 - 2019
 * @license Açık yazılım lisansı altındadır. Tüm hakları saklıdır. 
 */       
 
